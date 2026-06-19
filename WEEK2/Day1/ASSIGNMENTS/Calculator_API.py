@@ -40,7 +40,7 @@ def subtract(a, b):
     return result
 
 
-# Person 4: Multiply and Divide
+# Multiply and Divide
 
 def multiply(a, b):
     check_inputs(a, b)
@@ -55,7 +55,7 @@ def divide(a, b):
     return result
 
 
-# Person 5: Main Program
+# Main Program
 
 print("Welcome to the Error-Proof Calculator!")
 print("Type 1. 'quit' to 2. stop.\n")
