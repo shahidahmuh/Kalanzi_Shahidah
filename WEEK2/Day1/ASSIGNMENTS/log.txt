@@ -1,0 +1,11 @@
+add(2, 3) = 5
+subtract(10, 4) = 6
+multiply(3, 7) = 21
+divide(9, 3) = 3.0
+divide(5, 0) = Infinity
+add(hello, 3) = Error: 'hello' is not a number.
+multiply(None, 2) = Error: 'None' is not a number.
+add(10.0, 10.0) = 20.0
+divide(10.0, 0.0) = Infinity
+divide(0.0, 10.0) = 0.0
+add(10.0, 20.0) = 30.0
