@@ -96,3 +96,4 @@ for cls in StudentRepresentative.mro():
     print(cls.__name__)
 
 
+ 
