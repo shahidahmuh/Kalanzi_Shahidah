@@ -1,0 +1,36 @@
+Jim Kurose
+Jim Kurose is a Distinguished University Professor in the College of Information 
+and Computer Sciences at the University of Massachusetts Amherst, where 
+he has been on the faculty since receiving his PhD in computer science from 
+Columbia University. He received a BA in physics from Wesleyan University. 
+He has held a number of visiting scientist positions in the United States and 
+abroad, including IBM Research, INRIA, and the Sorbonne University in 
+France. He recently completed a five-year term as Assistant Director at the 
+US National Science Foundation, where he led the Directorate of Computer 
+and Information Science and Engineering in its mission to uphold the nation’s 
+leadership in scientific discovery and engineering innovation.
+Jim is proud to have mentored and taught an amazing group of students, 
+and to have received a number of awards for his research, teaching, and 
+service, including the IEEE Infocom Award, the ACM SIGCOMM Lifetime 
+Achievement Award, the ACM Sigcomm Test of Time Award, and the  
+IEEE Computer Society Taylor Booth Education Medal. Dr. Kurose is a for
+mer Editor-in-Chief of IEEE Transactions on Communications and of IEEE/
+ACM Transactions on Networking. He has served as Technical Program 
+co-Chair for IEEE Infocom, ACM SIGCOMM, ACM Internet Measurement 
+Conference, and ACM SIGMETRICS. He is a Fellow of the IEEE, the ACM 
+and a member of the National Academy of Engineering. His research  
+interests include network protocols and architecture, network measurement, 
+multimedia communication, and modeling and performance evaluation.
+Keith Ross
+Keith Ross is the Dean of Engineering and Computer Science at NYU 
+Shanghai and the Leonard J. Shustek Chair Professor in the Computer Science 
+and Engineering Department at NYU. Previously he was at University of 
+Pennsylvania (13 years), Eurecom Institute (5 years) and NYU-Poly (10 years). 
+He received a B.S.E.E from Tufts University, a M.S.E.E. from Columbia 
+University, and a Ph.D. in Computer and Control Engineering from The 
+University of Michigan. Keith Ross is also the co-founder and original CEO 
+of Wimba, which develops online multimedia applications for e-learning and 
+was acquired by Blackboard in 2010.
+Professor Ross’s research interests have been in modeling and meaurement 
+of computer networks, peer-to-peer systems, content distribution networks, 
+social networks, and privacy. He is currently working in deep reinforcement
